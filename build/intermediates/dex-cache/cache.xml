@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-ef691477153fdd4bc1742ce28aface5bef50532f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-7e3ca302a986f24b4f7c5fe1f4be28e67456bb7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-dce9134de29d8745f8be3d7f9ce786b3e157d5e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-cc21e95b1fb115cfbb3767646fcdfc2765b0dd8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-9c13f251f3147486fd7aa47df92085e1fec8e8f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-97b95c98c37bf0f8e74a07f76ee5be6e8f876761.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-053eafc8fbdccdaa088323b237a340820c1c1627.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-a98e7526ebde56fc431939ffe19c4e92d9aa0a8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c8816fba62fafefdf0ae2f793c4f36e4e007349f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-1277d1bcbc4501c90f26e4f50dd99691f0497f56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-6b296e70b1f16e50dbbb173606af42451c17e1a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-1e0a44dead7beb084a3a4a620485edb314ccd060.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-cdcfef0cf4240faff5cd06390cf80d09a49d6d0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-7df26199444fe4490e6a7767a260bcce30a940cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-cebe4099247293fc58058a0747ac3c1c76d058d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-1da6e71606d6831a4d0484f75c859c6ce48ddf6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-3a2eb91e31be0d3c5dae40665d5908de29963112.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-bb17a0bc66586cff86cb543291f97a52ca46deac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-65a67c27c474734184941f730ac2e07ab60ab9fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-4abb41000d460b8b94649fc87df84ff6f1c9639e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-4bdb2ce39e5c8a798597c2d5a4696a055ba5f410.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-e9c04143bb6db63281fad1bc5cba3a4f7bf74e13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-93755a69d432ce9250f6ddd9bddd896f63cbbe94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a77a5c3af2e9c5d59e64cd42fc9c14cbb8f78370.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-28c475628ba3e27caab01c6aa472b31441ce33f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Julz\Documents\AndroidStudioProjects\ch18_ex2_RunTracker_sol\app\build\intermediates\pre-dexed\debug\classes-18e1e32edcfd83e5e977c85d439d2cfa30d4564e.jar" />
+    </item>
+
+</items>
